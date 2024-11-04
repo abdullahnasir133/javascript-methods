@@ -1,1 +1,2 @@
-javascript methods
+javascript methods in pictures
+
